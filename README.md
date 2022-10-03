@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sahil
 - 👀 I’m interested in Learning Technology
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me with email--ss6611786@gmail.com
 
